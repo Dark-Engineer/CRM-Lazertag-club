@@ -1,0 +1,20 @@
+QPushButton{
+     color:white;
+     background-color: #000000;
+     border-style: solid;
+     border-width: 2px;
+     border-radius: 10px;
+     border-color: #355e3b;
+     font: bold 20px;
+     min-width: 10em;
+     padding: 6px;
+
+}
+QLabel{
+    color:dark;
+}
+
+QTabWidget, QMainWindow , QDialog, QTableView{
+    background-color: #333333;
+    color:white;
+    }
